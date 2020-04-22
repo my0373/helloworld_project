@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/*
+helloworld_project/
+manage.py
+templates/
+venv/
+*.db
+*.pyc
